@@ -1,3 +1,4 @@
+[![Build & Test](https://github.com/Zarmeena26/team-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Zarmeena26/team-project/actions/workflows/ci.yml)
 HEAD
 # team-project
 # Simple Calculator
